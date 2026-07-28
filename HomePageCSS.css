@@ -1,0 +1,6 @@
+.gradient {
+    background: linear-gradient(#78909c7f, #b5babd7f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-font-smoothing:antialiased;
+}

@@ -11,7 +11,14 @@
 .gradient {
   font-family: "Poppins", sans-serif;
   text-align: center;
-  font-size: x-large;
+}
+
+.heading {
+  font-size: 10vh;
+}
+
+.options {
+  font-size: 5vh;
 }
 
 html,

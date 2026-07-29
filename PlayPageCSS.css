@@ -24,3 +24,8 @@ body {
   background: url("https://dq0hsqwjhea1.cloudfront.net/milky_way.jpg") no-repeat center center;
   background-size: cover;
 }
+
+.stars {
+    width: 1vh;
+    height: 1vh;
+}

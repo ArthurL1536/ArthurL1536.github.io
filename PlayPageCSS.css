@@ -1,0 +1,16 @@
+.gradient {
+    background: linear-gradient(#78909c7f, #b5babd7f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    -webkit-font-smoothing:antialiased;
+    text-decoration: none
+}
+
+.gradient {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  padding: 2vh;
+  text-shadow: 2vh, 2vh, 5vh, rgba(0, 0, 0, 0.7);
+}

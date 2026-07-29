@@ -21,30 +21,6 @@ body {
 }
 
 body {
-  background: url("https://dq0hsqwjhea1.cloudfront.net/milky_way.jpg") no-repeat center center;
+  background: url(https://scitechdaily.com/images/Webb-Pillars-of-Creation-scaled.jpg) no-repeat center center;
   background-size: cover;
 }
-
-.stars {
-    width: 3vh;
-    height: 3vh;
-}
-
-.SolarSystem {
-    position: relative;
-    left: 60%;
-    top: 38%;
-}
-
-.Kepler-90 {
-    position: relative;
-    left: 63%;
-    top: 50%;
-}
-
-.UVscuti {
-    position: relative;
-    left: 53%;
-    top: 29%;
-}
-

@@ -8,6 +8,10 @@
     text-decoration: none
 }
 
+.gradient {
+  font-family: "Poppins", sans-serif;
+}
+
 html,
 body {
   margin: 0;

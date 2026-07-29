@@ -2,5 +2,9 @@
     background: linear-gradient(#78909c7f, #b5babd7f);
     -webkit-background-clip: text;
     background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
     -webkit-font-smoothing:antialiased;
+    text-decoration: none
 }
+

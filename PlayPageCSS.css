@@ -26,6 +26,12 @@ body {
 }
 
 .stars {
-    width: 1vh;
-    height: 1vh;
+    width: 3vh;
+    height: 3vh;
+}
+
+.SolarSystem {
+    position: relative;
+    left: 70%;
+    top: 10vh;
 }

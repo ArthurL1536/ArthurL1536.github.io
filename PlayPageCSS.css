@@ -32,6 +32,12 @@ body {
 
 .SolarSystem {
     position: relative;
-    left: 70%;
-    top: 10vh;
+    left: 60%;
+    top: 38%;
+}
+
+.Kepler-90 {
+    position: relative;
+    left: 66%;
+    top: 45%;
 }

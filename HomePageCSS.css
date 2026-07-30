@@ -5,13 +5,13 @@
     -webkit-text-fill-color: transparent;
     color: transparent;
     -webkit-font-smoothing:antialiased;
-    text-decoration: none
 }
 
 .gradient {
   font-family: "Poppins", sans-serif;
   text-align: center;
   padding: 2vh;
+  filter: drop-shadow(1vh, 1vh, 2.5vh, rgba(0, 0, 0, 0.5))
 }
 
 .heading {

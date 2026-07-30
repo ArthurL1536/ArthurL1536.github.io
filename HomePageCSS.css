@@ -11,7 +11,6 @@
   font-family: "Poppins", sans-serif;
   text-align: center;
   padding: 2vh;
-  filter: drop-shadow(1vh, 1vh, 2.5vh, rgba(0, 0, 0, 0.5))
 }
 
 .heading {
@@ -21,7 +20,6 @@
 
 .options {
   font-size: 7.5vh;
-  text-shadow: 2vh, 2vh, 5vh, rgba(0, 0, 0, 0.7);
 }
 
 html,
@@ -31,7 +29,7 @@ body {
 }
 
 body {
-  background: url("https://th.bing.com/th/id/OIP.Bp6vw62T0jX6xbN3I_Zz6wHaE8?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3") no-repeat center center;
+  background: url("https://th.bing.com/th/id/OIP.M4qBDcY5gZ_6kp3KdGuSkQHaEo?w=282&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3") no-repeat center center;
   background-size: cover;
 }
 

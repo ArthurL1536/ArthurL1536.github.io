@@ -24,6 +24,13 @@ body {
   background-size: cover;
 }
 
+.title {
+    font-size: 7.5vh;
+}
+
+.return {
+    text-align: left;
+}
 
 .sun {
     position: relative;

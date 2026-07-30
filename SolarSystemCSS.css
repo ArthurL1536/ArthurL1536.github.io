@@ -20,7 +20,7 @@ body {
 }
 
 body {
-  background: url(https://th.bing.com/th/id/OIP.Il8TdBFajH12rr3dxll7FgHaEX?w=225&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3) no-repeat center center;
+  background: url(https://theplanets.org/wp-content/uploads/2014/09/the_planets-1024x533.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -32,10 +32,3 @@ body {
     text-align: left;
 }
 
-.sun {
-    position: relative;
-    width: 10%;
-    height: 10%;
-    left: -5%;
-    top: -50%;
-}

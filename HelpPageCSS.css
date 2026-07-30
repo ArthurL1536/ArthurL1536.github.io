@@ -29,10 +29,11 @@ body {
     font-size: 7.5vh;
     position: relative;
     text-align: left;
+    top: 0%;
 }
 
 .heading {
-    font-size: 7.5vh;
+    font-size: 5vh;
 }
 
 .tutorial {

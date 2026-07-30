@@ -25,6 +25,12 @@ body {
   background-size: cover;
 }
 
+.return {
+    font-size: 7.5vh;
+    position: relative;
+    text-align: left;
+}
+
 .heading {
     font-size: 7.5vh;
 }

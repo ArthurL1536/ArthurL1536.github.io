@@ -26,9 +26,10 @@ body {
 
 .return {
     font-size: 7.5vh;
+    font-weight: bold;
     position:relative;
-    left: 5%;
-    top: 5%;
+    left: 2.5%;
+    top: 2.5%;
 }
 
 .stars {
@@ -38,19 +39,19 @@ body {
 
 .SolarSystem {
     position: relative;
-    left: 60%;
-    top: 38%;
+    left: 56%;
+    top: 28%;
 }
 
 .Kepler-90 {
     position: relative;
-    left: 63%;
-    top: 50%;
+    left: 60%;
+    top: 44%;
 }
 
 .UVscuti {
     position: relative;
-    left: 53%;
-    top: 29%;
+    left: 45%;
+    top: 24%;
 }
 

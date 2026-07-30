@@ -26,10 +26,10 @@ body {
 
 .return {
     font-size: 7.5vh;
-    font-weight: bold;
-    position:relative;
-    left: 2.5%;
-    top: 2.5%;
+    font-weight: medium;
+    position: relative;
+    text-align: left;
+    top:2.5%;
 }
 
 .stars {

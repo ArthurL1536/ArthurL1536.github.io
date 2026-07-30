@@ -34,7 +34,6 @@ body {
 
 .sun {
     position: relative;
-    display: block;
     width: 10%;
     height: 10%;
     left: -5%;

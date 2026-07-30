@@ -24,3 +24,7 @@ body {
   background: url(https://scitechdaily.com/images/Webb-Pillars-of-Creation-scaled.jpg) no-repeat center center;
   background-size: cover;
 }
+
+.heading {
+    font-size: 7.5vh;
+}

@@ -29,3 +29,16 @@ body {
     position: relative;
     text-align: left;
 }
+
+.title {
+    font-size: 7.5vh;
+}
+
+.return {
+    font-size: 7.5vh;
+    font-weight: 600;
+}
+
+.credits {
+    font-size: 5vh;
+}

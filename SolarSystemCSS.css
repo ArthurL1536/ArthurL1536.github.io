@@ -32,10 +32,11 @@ body {
     text-align: left;
 }
 
-.sun img {
+.sun {
     position: relative;
-    width: 5vh;
-    height: 5vh;
+    display: block;
+    width: 10%;
+    height: 10%;
     left: -5%;
     top: -50%;
 }

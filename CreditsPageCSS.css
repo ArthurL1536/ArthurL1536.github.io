@@ -20,19 +20,12 @@ body {
 }
 
 body {
-  background: url(https://theplanets.org/wp-content/uploads/2014/09/the_planets-1024x533.jpg) no-repeat center center;
+  background: url("https://dq0hsqwjhea1.cloudfront.net/milky_way.jpg") no-repeat center center;
   background-size: cover;
 }
 
-.title {
-    font-size: 7.5vh;
-}
-
 .return {
+    font-size: 7.5vh;
+    position: relative;
     text-align: left;
-}
-
-.sun {
-    width: 100px;
-    height: auto;
 }

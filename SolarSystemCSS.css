@@ -29,6 +29,10 @@ body {
 }
 
 .return {
-    text-align: left;
+    text-align: center;
 }
 
+.sun {
+    width: 10%;
+    height: 10%;
+}

@@ -26,10 +26,8 @@ body {
 
 .return {
     font-size: 7.5vh;
-    font-weight: medium;
     position: relative;
     text-align: left;
-    top:2.5%;
 }
 
 .stars {

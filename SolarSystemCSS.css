@@ -25,16 +25,16 @@ body {
 }
 
 .title {
-    font-size: 7.5vh;
+  font-size: 7.5vh;
 }
 
 .return {
-    text-align: left;
+  text-align: left;
 }
 
 .sun {
-    width: 100px;
-    height: auto;
-    left: 10%;
-    top: 10%
+  width: 100px;
+  height: auto;
+  left: 10%;
+  top: 10%
 }

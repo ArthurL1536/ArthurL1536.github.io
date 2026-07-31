@@ -25,22 +25,22 @@ body {
 }
 
 .return {
-    font-size: 7.5vh;
-    position: relative;
-    text-align: left;
-    top: 20px;
-    left: 20px;
-    display: inline;     /* makes link only as wide as text */
-    padding-right: 0;    /* remove any extra clickable padding */
-    margin-right: 0;
+  font-size: 7.5vh;
+  position: relative;
+  text-align: left;
+  top: 20px;
+  left: 20px;
+  display: inline;     /* makes link only as wide as text */
+  padding-right: 0;    /* remove any extra clickable padding */
+  margin-right: 0;
 }
 
 .return {
-    position: relative;
-    height: 7.5vh;
-    width: fit-content;
-    top: 1%;
-    left: 1%;
+  position: relative;
+  height: 7.5vh;
+  width: fit-content;
+  top: 1%;
+  left: 1%;
 }
 
 .heading {

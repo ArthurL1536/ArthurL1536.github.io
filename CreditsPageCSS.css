@@ -24,14 +24,11 @@ body {
   background-size: cover;
 }
 
-.returnBox {
+.return {
+    font-size: 7.5vh;
     position: relative;
     top: 1%;
     left: 1%;
-}
-
-.return {
-    font-size: 7.5vh;
     text-decoration: none;
     text-align: left;
 }

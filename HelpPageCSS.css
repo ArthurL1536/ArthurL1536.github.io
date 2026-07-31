@@ -38,20 +38,20 @@ body {
 .return {
     font-size: 7.5vh;
     position: relative;
-    top: 20px;
-    left: 20px;
+    top: 1%;
+    left: 1%;
     text-decoration: none;
 }
 
 .heading {
-    font-size: 5vh;
-    position: relative;
-     background: linear-gradient(#016941, #056943);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    color: transparent;
-    -webkit-font-smoothing:antialiased;
+  font-size: 5vh;
+  position: relative;
+  background: linear-gradient(#016941, #056943);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  -webkit-font-smoothing:antialiased;
 }
 
 .tutorial {

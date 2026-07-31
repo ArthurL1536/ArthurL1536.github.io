@@ -29,7 +29,11 @@ body {
 }
 
 .return {
-  text-align: left;
+    font-size: 7.5vh;
+    position: relative;
+    top: 1%;
+    left: 1%;
+    text-decoration: none;
 }
 
 .sun {

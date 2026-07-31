@@ -35,4 +35,6 @@ body {
 .sun {
     width: 100px;
     height: auto;
+    left: 10%;
+    top: 10%
 }

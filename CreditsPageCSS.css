@@ -25,12 +25,11 @@ body {
 }
 
 .return {
-    font-size: 7.5vh;
-    position: relative;
-    top: 1%;
-    left: 1%;
-    text-decoration: none;
-    text-align: left;
+   position: relative;
+   height: 7.5vh;
+   width: fit-content;
+   left: 1%;
+   top: 1%;
 }
 
 .title {

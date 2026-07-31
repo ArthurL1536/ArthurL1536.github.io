@@ -29,11 +29,11 @@ body {
 }
 
 .return {
-    position: relative;
-    height: 7.5vh;
-    width: fit-content;
-    top: 1%;
-    left: 1%;
+  position: relative;
+  height: 7.5vh;
+  width: fit-content;
+  top: 1%;
+  left: 1%;
 }
 
 .sun {

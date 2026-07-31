@@ -23,3 +23,11 @@ body {
   background: url(https://www.syfy.com/sites/syfy/files/kepler90_planets_hero.jpg) no-repeat center center;
   background-size: cover;
 }
+
+.return {
+    position: relative;
+    height: 7.5vh;
+    width: fit-content;
+    top: 1%;
+    left: 1%;
+}
